@@ -1,1 +1,1 @@
-# react_redux_toolkit
+<!-- Reducer will control the staate of the slice -->
